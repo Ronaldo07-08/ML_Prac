@@ -1,3 +1,4 @@
 # ML Практика(Иванов Д.И.)
 [ДЗ 1](IvanovHw1.ipynb)
 [ДЗ 2](homework)
+[ДЗ 3](homework3/homework3)
