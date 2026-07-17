@@ -4,3 +4,4 @@
 [ДЗ 3](homework3/homework3)
 [ДЗ 4](homework4)
 [Дз 5](hw5)
+[Дз 6](homework6)
